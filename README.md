@@ -1,4 +1,7 @@
 # pricing_discount
+
+Note:- All code are written in models.py file 
+
 Installation and Setup
 Prerequisites:
 1.
